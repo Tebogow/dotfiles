@@ -1,5 +1,5 @@
 <h1 align="center">Dotfiles</h1>
 ---
 
-![main.png](https://github.com/Kohzmik/dotfiles/screenshots/main.png)
+![main.png](https://github.com/Kohzmik/dotfiles/master/screenshots/main.png)
 
