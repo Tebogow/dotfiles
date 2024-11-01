@@ -4,6 +4,6 @@
 
 <h1 align="center">Repository Structure</h1>
 
-* <b>Wallpaper</b>: This contains not only my wallpaper but a plethora of (1920x1080) wallpapers that could potentially go with my setup.
+* `Wallpaper`: This contains not only my wallpaper but a plethora of (1920x1080) wallpapers that could potentially go with my setup.
 
 
