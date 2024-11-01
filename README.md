@@ -23,8 +23,8 @@
 | GUI Font | <a href="https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Noto.zip">noto sans nerd font</a> |
 | TUI Font | <a href="https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Hack.zip">hack nerd font</a> |
 
-![Photo](https://raw.githubusercontent.com/Kohzmik/dotfiles/screenshots/main.png)
-![Photo2](https://raw.githubusercontent.com/Kohzmik/dotfiles/screenshots/pic1.png)
+![Photo](https://raw.githubusercontent.com/Kohzmik/dotfiles/master/screenshots/Setup.png)
+
 
 
 
