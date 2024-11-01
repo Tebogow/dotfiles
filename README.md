@@ -12,6 +12,17 @@
 | <b>Program</b> | <b>Link</b> |
 |---|---|
 | Linux Distribution | <a href="https://github.com/archlinux/linux">arch</a> | 
+| Window Manager | <a href="https://github.com/i3/i3">i3</a> |
+| Shell | <a href="https://github.com/bminor/bash">bash</a> | 
+| Terminal | <a href="https://github.com/kovidgoyal/kitty">kitty</a> | 
+| Bar | <a href="https://github.com/tobi-wan-kenobi/bumblebee-status">polybar</a> | 
+| Browser | <a href="https://wiki.archlinux.org/title/Firefox">firefox</a> | 
+| Editor | <a href="https://github.com/vim/vim">vim</a> | 
+| File Manager | <a href="https://github.com/neilbrown/thunar">Thunar</a> | 
+| Application Launcher | <a href="https://github.com/adi1090x/rofi">rofi</a> | 
+| GUI Font | <a href="https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Noto.zip">noto sans nerd font</a> |
+| TUI Font | <a href="https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Hack.zip">hack nerd font</a> |
+
 
 
 
