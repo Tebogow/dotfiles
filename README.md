@@ -1,2 +1,2 @@
-<h2>Dotfiles</h2>
+<h1 align="center">Dotfiles</h1>
 ---
