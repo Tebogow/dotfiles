@@ -15,7 +15,7 @@
 | Window Manager | <a href="https://github.com/i3/i3">i3</a> |
 | Shell | <a href="https://github.com/bminor/bash">bash</a> | 
 | Terminal | <a href="https://github.com/kovidgoyal/kitty">kitty</a> | 
-| Bar | <a href="https://github.com/tobi-wan-kenobi/bumblebee-status">polybar</a> | 
+| Bar | <a href="https://github.com/tobi-wan-kenobi/bumblebee-status">bumblebee status</a> | 
 | Browser | <a href="https://wiki.archlinux.org/title/Firefox">firefox</a> | 
 | Editor | <a href="https://github.com/vim/vim">vim</a> | 
 | File Manager | <a href="https://github.com/neilbrown/thunar">Thunar</a> | 
